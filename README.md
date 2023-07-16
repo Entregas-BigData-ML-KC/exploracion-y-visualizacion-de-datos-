@@ -12,6 +12,8 @@ Así, el dashboard presentado, intenta responder a este supuesto desde el punto 
 
 ## IMG - DEMO
 
+![Demo Dashboard][img1]
 
+[img1]: https://github.com/Entregas-BigData-ML-KC/exploracion-y-visualizacion-de-datos-/blob/main/img-demo.jpeg
 
 ##### Trabajo realizado por Jorge Arrojo
